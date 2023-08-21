@@ -1,0 +1,22 @@
+* {
+    font-family: sans-serif;
+}
+
+.odd {
+    background-color: pink;
+}
+
+.three {
+    font-size: 22px;
+}
+
+#two {
+    color: blue;
+    font-size: 32px;
+}
+
+#four {
+    font-weight: bolder;
+    background-color: lime;
+    font-size: 22px;
+}
